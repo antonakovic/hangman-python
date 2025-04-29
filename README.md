@@ -1,6 +1,6 @@
 # Hangman Game - Python
 
-This is a classic Hangman game developed in Python.
+This is a classic Hangman game with Greek words developed in Python.
 
 ## Features
 - Random word selection
